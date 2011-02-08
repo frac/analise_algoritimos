@@ -1,0 +1,37 @@
+Insertion sort:
+
+    n^2 
+    Pior caso: reversed.
+    Melhor caso: Semi sorted (n)
+
+Selection sort:
+
+    n^2
+    Pior caso: Todos:
+    Melhor caso: sorted mas ainda assim passa duas vezes por todos os elementos
+
+Bubble:
+
+    n^2 
+    Melhor caso Near sorted (n)
+    Pior: Reversed
+
+Shell:
+    n^3/2
+    Melhor: Sorted (n lg n)
+
+merge:
+    n lg n
+
+heap:
+    l lg n
+    Melhor: reversed, few unique
+
+quick:
+    n^2 mas normalmente n lg n
+
+    Pior: few unique
+
+    com 3 partitions:
+        Melhor few unique: (n)
+

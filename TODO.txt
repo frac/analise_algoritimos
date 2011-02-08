@@ -1,0 +1,47 @@
+i Adriano!
+
+O livro de que eu tinha te falado é o Algorithm Design Manual:
+http://amzn.com/1849967202 . Tem esse livro na biblioteca do IME,
+posso pegar pra você amanhã ou depois. Quer?
+
+Eu tinha a impressão de que alguém tinha me passado link com vídeo das
+lectures do autor (Steve Skiena), mas não tou achando. Googlando,
+achei isto, não lembro se era a mesma coisa:
+http://www.cs.sunysb.edu/~algorith/video-lectures/
+
+O post que me apresentou ao livro é
+http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html ,
+e vale muito a pena ler com cuidado (com a devida pitada de sal, como
+eu tinha mencionado).
+
+A propósito de entrevistas: estou mandando em anexo o material em PDF
+do curso de Análise de Algoritmos do Feofiloff, de quando fiz a
+matéria. A página do Feofiloff é http://www.ime.usp.br/~pf/ , tem mais
+coisa interessante.
+
+A descrição do Timsort (que o Python usa):
+http://bugs.python.org/file4451/timsort.txt
+
+Este post sobre busca binária é interessante (e o followup também):
+http://reprog.wordpress.com/2010/04/19/are-you-one-of-the-10-percent/
+. Sugiro ler o começo, fazer o "desafio" (basicamente, escrever uma
+busca binária, o mais correto que você conseguir),  e depois ler o
+resto, pra ver se você caiu em algum dos erros comuns.
+
+Esse vídeo com o Jon Bentley é muito bom (~1h):
+http://www.youtube.com/watch?v=aMnn0Jq0J-E
+
+E, finalmente: vocês esqueceram o guarda-chuva aqui, não? :)
+
+
+O site de testes de programação (onde a Hyves pediu pra eu fazer 3
+problemas): http://codility.com . Lá tem um demo pra você sentir como
+é: http://codility.com/demo/run/
+
+O site do RIPE, onde eu fiz minha primeira entrevista:
+http://ripe.net/ . Atualmente não tem vagas abertas
+(http://ripe.net/employment/index.html), mas vale a pena ficar de
+olho, ao longo do ano eles abriram vagas *várias* vezes...
+- Show quoted text -
+
+
